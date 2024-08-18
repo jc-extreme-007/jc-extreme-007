@@ -1,4 +1,4 @@
-## Hi there 👋
+## sigma supremo
 dudu betero
 <!--
 **jc-extreme-007/jc-extreme-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
